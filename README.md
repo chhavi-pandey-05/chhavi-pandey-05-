@@ -1,6 +1,6 @@
 # Hi, I'm Chhavi Pandey 👋
 
-### B.Tech CSE Student | Aspiring Software Developer
+### B.Tech CSE Student | Exploring AI/ML & Software Development
 
 I'm a Computer Science student passionate about programming, problem-solving, and Artificial Intelligence.
 
